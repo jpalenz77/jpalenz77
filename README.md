@@ -1,108 +1,234 @@
-<!-- TITLE ANIMATED (INLINE SVG, NEVER BREAKS) -->
-<h1 align="center">
-  <svg viewBox="0 0 1000 80" width="100%" height="80">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-      font-size="32" font-family="Fira Code" fill="#8be9fd">
-      Hi, I'm José María — DevOps Engineer
-      <animate attributeName="fill" values="#8be9fd;#ff79c6;#50fa7b;#8be9fd" dur="6s" repeatCount="indefinite"/>
-    </text>
-  </svg>
-</h1>
+<div align="center">
 
-<!-- AVATAR -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/14169080?v=4" width="140" style="border-radius:50%;">
-</p>
+# 👨‍💻 José María Palenzuela Plaza
+
+### DevOps Engineer | Cloud Architect | Infrastructure Automation
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Infrastructure;Automating+Everything;AWS+%7C+Terraform+%7C+Kubernetes;3%2B+Years+of+Experience" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## ⚡ About Me
+## 🚀 About Me
 
-I'm a **DevOps Engineer with 3+ years** of experience building reliable, scalable infrastructure.
+```yaml
+name: José María Palenzuela Plaza
+role: DevOps Engineer
+experience: 3+ years
+location: Spain 🇪🇸
+motto: "If I have to do it twice → I automate it"
 
-- AWS Cloud  
-- Terraform (modular IaC)  
-- Docker & containerization  
-- Kubernetes (EKS)  
-- CI/CD with GitHub Actions  
-- Linux automation & troubleshooting  
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-316ce6?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+currently_working_on:
+  - RetroGameCloud platform
+  - Kubernetes infrastructure optimization
+  - GitOps with ArgoCD
+  
+interests:
+  - Infrastructure as Code
+  - Container orchestration
+  - Retro gaming & homelab projects
+```
 
 ---
 
-## 🔗 Connect with Me
+## 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://github.com/jpalenz77">
-    <img src="https://img.shields.io/badge/GitHub-%23171717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/josemariapalenzuelaplaza/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
 
----
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
-## 📊 GitHub Activity (Official API, Never Breaks)
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![K3s](https://img.shields.io/badge/K3s-FFC61C?style=for-the-badge&logo=k3s&logoColor=black)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jpalenz77&show_icons=true&theme=transparent" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpalenz77&layout=compact&theme=transparent" width="48%">
-</p>
+### 🔄 CI/CD & Automation
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
----
+### 📊 Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Alertmanager](https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
-## 🚀 Core Skills
+### 💻 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-- Infrastructure as Code (Terraform)
-- CI/CD automation (GitHub Actions)
-- AWS cloud services
-- Docker & Kubernetes workloads
-- Monitoring & observability
-- Linux automation and scripting
+### 🗄️ Databases & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
----
+### 🐧 Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-<!-- INLINE ANIMATED DIVIDER (NEVER BREAKS) -->
-<p align="center">
-  <svg width="100%" height="60">
-    <rect width="100%" height="4">
-      <animate attributeName="width" values="0%;100%;0%" dur="6s" repeatCount="indefinite"/>
-    </rect>
-  </svg>
-</p>
+</div>
 
 ---
 
-## 🛰️ Fun Fact  
-If I have to do it twice → I automate it.
+## 💼 Core Competencies
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏗️ Infrastructure
+- ✅ Infrastructure as Code (Terraform)
+- ✅ Cloud Architecture (AWS)
+- ✅ Network Configuration
+- ✅ High Availability Design
+- ✅ Disaster Recovery Planning
+
+</td>
+<td width="50%">
+
+### 🔧 DevOps Practices
+- ✅ CI/CD Pipeline Design
+- ✅ GitOps Workflows (ArgoCD)
+- ✅ Container Orchestration
+- ✅ Configuration Management
+- ✅ Automated Testing & Deployment
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📈 Monitoring & Reliability
+- ✅ Observability Stacks
+- ✅ Alerting & Incident Response
+- ✅ Performance Optimization
+- ✅ Log Aggregation
+- ✅ SRE Practices
+
+</td>
+<td width="50%">
+
+### 🔐 Security & Compliance
+- ✅ Secret Management
+- ✅ Access Control (IAM)
+- ✅ Security Hardening
+- ✅ Compliance Automation
+- ✅ Network Security
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- INLINE WAVE FOOTER (NEVER BREAKS) -->
-<p align="center">
-  <svg width="100%" height="80">
-    <path d="M0 30 Q 250 80 500 30 T 1000 30 V 80 H 0 Z" fill="#44475a">
-      <animate attributeName="d"
-        dur="6s"
-        repeatCount="indefinite"
-        values="
-          M0 30 Q250 80 500 30 T1000 30 V80 H0 Z;
-          M0 40 Q250 20 500 40 T1000 40 V80 H0 Z;
-          M0 30 Q250 80 500 30 T1000 30 V80 H0 Z
-        "/>
-    </path>
-  </svg>
-</p>
+## 🎯 Featured Projects
+
+<div align="center">
+
+### 🎮 RetroGameCloud
+**Full-stack DevOps Gaming Platform**
+
+Complete infrastructure automation featuring user management, classic DOS games, and comprehensive DevOps pipeline
+
+`Terraform` `Kubernetes` `ArgoCD` `FastAPI` `Docker` `GitHub Actions`
+
+---
+
+### 📦 GameHub
+**Retro Gaming Web Platform**
+
+WebAssembly-powered gaming platform with user authentication and scoring systems
+
+`js-dos` `WebAssembly` `Docker` `CI/CD` `Monitoring`
+
+---
+
+### 🏠 Homelab Infrastructure
+**25-30 Self-Hosted Services**
+
+Personal cloud infrastructure running Plex, media automation, and various containerized applications
+
+`K3s` `Docker` `Helm` `Monitoring` `Network Automation`
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpalenz77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpalenz77&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jpalenz77&theme=tokyonight&hide_border=true&background=0d1117)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=jpalenz77&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jpalenz77)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josemariapalenzuelaplaza/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Philosophy
+
+```python
+class DevOpsEngineer:
+    def __init__(self):
+        self.name = "José María"
+        self.role = "DevOps Engineer"
+        self.language_spoken = ["es_ES", "en_US"]
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something awesome together.")
+    
+    def automate_everything(self):
+        while True:
+            if task.repeated > 1:
+                return self.automate(task)
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Profile Views
+
+![](https://komarev.com/ghpvc/?username=jpalenz77&color=00D9FF&style=for-the-badge)
+
+**⭐ From [jpalenz77](https://github.com/jpalenz77) | Made with 💙 and lots of ☕**
+
+</div>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
