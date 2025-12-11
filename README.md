@@ -140,9 +140,9 @@ Personal cloud infrastructure running Plex, media automation, and various contai
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpalenz77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
+<img src="https://github-readme-stats.vercel.app/api?username=jpalenz77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jpalenz77&theme=tokyonight&hide_border=true&background=0d1117)
+<img src="https://streak-stats.demolab.com/?user=jpalenz77&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 
 </div>
 
@@ -152,7 +152,7 @@ Personal cloud infrastructure running Plex, media automation, and various contai
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=jpalenz77&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)
+<img src="https://github-profile-trophy.vercel.app/?username=jpalenz77&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
 
