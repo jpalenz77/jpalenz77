@@ -14,7 +14,7 @@
 
 **Systems Admin turned DevOps Engineer** who refuses to do manual work twice.
 
-Started managing bare metal & cloud servers (OVH, AWS, GCP), got tired of clicking buttons, so I automated everything. Now I build CI/CD pipelines for fun and deploy Kubernetes clusters in my sleep.
+Started managing bare metal & cloud servers (AWS, GCP), got tired of clicking buttons, so I automated everything. Now I build CI/CD pipelines for fun and deploy Kubernetes clusters in my sleep.
 
 ###  What I Actually Do:
 -  **Cloud Wrangling**: OVH Cloud, AWS, GCP (because one cloud is never enough)
