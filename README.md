@@ -1,32 +1,34 @@
-<!-- Hero Banner with Typing Animation -->
+<!-- TITLE WITH ANIMATED TYPING -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=700&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+José+María+Palenzuela+Plaza;DevOps+Engineer+%7C+Cloud+%7C+Automation;3%2B+Years+Building+Reliable+Infra;IaC+%7C+Kubernetes+%7C+CI%2FCD+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=700&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+José+María+Palenzuela+Plaza;DevOps+Engineer+%7C+Cloud+%7C+Automation;Infrastructure+%26+CI%2FCD+Specialist;3%2B+Years+Building+Reliable+Systems" alt="Typing SVG" />
 </h1>
 
+<!-- AVATAR -->
 <p align="center">
-  <img src="https://github.com/DenverCoder1/github-readme-avatar/raw/main/avatar-round.gif" width="140" />
+  <img src="https://avatars.githubusercontent.com/u/14169080" width="150" style="border-radius:50%;"/>
 </p>
 
 ---
 
 ## ⚡ About Me
 
-I’m a **DevOps Engineer with 3+ years of hands-on experience** building modern, scalable, cloud-native infrastructure.
+I'm a **DevOps Engineer with 3+ years of hands-on experience** designing, automating, and maintaining cloud-native infrastructure.
 
-I specialize in:
+I focus on:
 
-- 🚀 **AWS** architectures for production  
-- 🧩 **Terraform** (modular, reusable, secure IaC)  
-- 🐳 **Docker** & containerized workloads  
-- ☸️ **Kubernetes (EKS)** cluster operations  
-- 🔄 **CI/CD pipelines** with GitHub Actions  
-- 🐧 Linux automation, monitoring, troubleshooting  
+- 🚀 **AWS** cloud infrastructure  
+- 🧩 **Terraform** (modular, scalable IaC)  
+- 🐳 **Docker** and containerized environments  
+- ☸️ **Kubernetes (EKS)** operations  
+- 🔄 **CI/CD automation** using GitHub Actions  
+- 🐧 Linux, observability, troubleshooting, automation  
 
-I care about **resilience, simplicity, automation, and clean infrastructure**.
+My philosophy:  
+**If I do it twice → I automate it.**  
 
 ---
 
-## 🔧 Tech Stack (Animated)
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions,linux,bash,python,git,nginx,prometheus,grafana" />
@@ -37,67 +39,64 @@ I care about **resilience, simplicity, automation, and clean infrastructure**.
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/jpalenz77">
-    <img src="https://img.shields.io/badge/GitHub-%230A0A0A?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/jpalenz77" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/josemariapalenzuelaplaza/">
-    <img src="https://img.shields.io/badge/LinkedIn-José%20María%20Palenzuela%20Plaza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/josemariapalenzuelaplaza/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-José%20María%20Palenzuela%20Plaza-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
 ---
 
-## 📈 GitHub Statistics (Animated Cards)
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jpalenz77&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpalenz77&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jpalenz77&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpalenz77&layout=compact&theme=tokyonight&hide_border=true" alt="langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jpalenz77&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jpalenz77&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 ---
 
-## 🚀 Featured DevOps Skills
+## 🚀 Core DevOps Skills
 
-### Infrastructure as Code  
-- Terraform modules, remote state, workspaces  
+### **Infrastructure as Code**
+- Terraform modules  
+- AWS IAM, VPC, EC2, S3, CloudWatch  
 - Automated provisioning pipelines  
-- AWS IAM, VPC, EC2, S3, CloudWatch, ECS/EKS  
 
-### CI/CD  
-- GitHub Actions reusable workflows  
-- Automated testing, validation, scanning  
-- Blue/green & rolling deployment strategies  
+### **CI/CD**
+- GitHub Actions  
+- Workflow automation  
+- Deployment strategies: rolling, blue/green  
 
-### Containers & Kubernetes  
-- Docker multi-stage builds  
-- Helm basics, manifests, Kustomize  
-- Observability stack integration (Prometheus/Grafana)
+### **Containers & Kubernetes**
+- Docker build optimization  
+- EKS cluster operations  
+- Monitoring stacks (Prometheus + Grafana)  
 
-### Linux & Automation  
+### **Linux & Automation**
 - Bash scripting  
-- Systemd management  
-- Monitoring & log analysis  
+- System maintenance & tuning  
+- Logging, metrics, and troubleshooting  
 
 ---
 
-## ⚙️ Cool Animated DevOps Divider
-
+<!-- ANIMATED DIVIDER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="90%" />
 </p>
 
 ---
 
 ## 🛰️ Fun Fact  
-I automate **everything** — if I do it twice, it's already a script.
+**Automating infrastructure is my favorite way of avoiding future pain.**
 
 ---
 
-## 🌊 Animated Footer
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2b1055,50:7209b7,100:3a0ca3&section=footer"/>
-
+<!-- WAVE FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
