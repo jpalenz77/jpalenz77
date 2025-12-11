@@ -130,15 +130,20 @@ Personal cloud infrastructure running Plex, media automation, and various contai
 
 ---
 
-##  GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpalenz77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400)](https://github.com/jpalenz77)
+<a href="https://github.com/jpalenz77">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jpalenz77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jpalenz77&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jpalenz77&theme=tokyonight&hide_border=true&background=0d1117&cache_seconds=86400)](https://github.com/jpalenz77)
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpalenz77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400)](https://github.com/jpalenz77)
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=jpalenz77&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/jpalenz77)
 
 </div>
 
