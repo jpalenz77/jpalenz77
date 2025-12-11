@@ -130,7 +130,7 @@ Personal cloud infrastructure running Plex, media automation, and various contai
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -144,7 +144,7 @@ Personal cloud infrastructure running Plex, media automation, and various contai
 <div align="center">
   
 <a href="https://github.com/jpalenz77">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jpalenz77&theme=tokyonight&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://nirzak-streak-stats.vercel.app?user=jpalenz77&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </a>
 
 </div>
