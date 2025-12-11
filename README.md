@@ -12,9 +12,9 @@
 
 ## About Me
 
-**Systems Admin turned DevOps Engineer** who refuses to do manual work twice 🚀
+**Systems Admin turned DevOps Engineer** who refuses to do manual work twice.
 
-Started managing bare metal & cloud servers (OVH, AWS, GCP), got tired of clicking buttons, so I automated everything. Now I build CI/CD pipelines for fun and deploy Kubernetes clusters in my sleep 😴
+Started managing bare metal & cloud servers (OVH, AWS, GCP), got tired of clicking buttons, so I automated everything. Now I build CI/CD pipelines for fun and deploy Kubernetes clusters in my sleep.
 
 ###  What I Actually Do:
 -  **Cloud Wrangling**: OVH Cloud, AWS, GCP (because one cloud is never enough)
@@ -39,7 +39,7 @@ Started managing bare metal & cloud servers (OVH, AWS, GCP), got tired of clicki
 <a href="https://kubernetes.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/></a>
 <a href="https://www.docker.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/></a>
 <a href="https://argo-cd.readthedocs.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" alt="ArgoCD" width="50" height="50"/></a>
-<a href="https://github.com/features/actions" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Actions" width="50" height="50"/></a>
+<a href="https://github.com/features/actions" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="50" height="50"/></a>
 <a href="https://prometheus.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="50" height="50"/></a>
 <a href="https://grafana.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="50" height="50"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
