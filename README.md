@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 José María Palenzuela Plaza
+# José María Palenzuela Plaza
 
 ### DevOps Engineer | Cloud Architect | Infrastructure Automation
 
@@ -10,27 +10,27 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 **Systems Admin turned DevOps Engineer** who refuses to do manual work twice 🚀
 
 Started managing bare metal & cloud servers (OVH, AWS, GCP), got tired of clicking buttons, so I automated everything. Now I build CI/CD pipelines for fun and deploy Kubernetes clusters in my sleep 😴
 
-### 🛠️ What I Actually Do:
-- ☁️ **Cloud Wrangling**: OVH Cloud, AWS, GCP (because one cloud is never enough)
-- 🤖 **Automation Addict**: If it moves, I'll write Terraform for it. If it doesn't move, I'll still write Terraform for it
-- 🐳 **Container Enthusiast**: Docker, Kubernetes, and yes, even more Kubernetes
-- 🔧 **Infrastructure as Code**: Ansible, Terraform, and occasionally crying over YAML indentation
-- 🚨 **Monitoring Maestro**: Setting up alerts so I can sleep peacefully (or get woken up at 3 AM)
+###  What I Actually Do:
+-  **Cloud Wrangling**: OVH Cloud, AWS, GCP (because one cloud is never enough)
+-  **Automation Addict**: If it moves, I'll write Terraform for it. If it doesn't move, I'll still write Terraform for it
+-  **Container Enthusiast**: Docker, Kubernetes, and yes, even more Kubernetes
+-  **Infrastructure as Code**: Ansible, Terraform, and occasionally crying over YAML indentation
+-  **Monitoring Maestro**: Setting up alerts so I can sleep peacefully (or get woken up at 3 AM)
 
-### 🎯 Current Side Quests:
-- 🎮 Building RetroGameCloud (because DevOps + retro gaming = chef's kiss)
-- 🏠 Running 25-30 self-hosted services in my homelab (yes, I have a problem)
-- 📚 Learning new ways to automate the automation
+###  Current Side Quests:
+-  Building RetroGameCloud (because DevOps + retro gaming = chef's kiss)
+-  Running 25-30 self-hosted services in my homelab (yes, I have a problem)
+-  Learning new ways to automate the automation
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -51,7 +51,7 @@ Started managing bare metal & cloud servers (OVH, AWS, GCP), got tired of clicki
 
 ---
 
-## 💼 Core Competencies
+## Core Competencies
 
 <div align="center">
 
@@ -59,7 +59,7 @@ Started managing bare metal & cloud servers (OVH, AWS, GCP), got tired of clicki
 <tr>
 <td width="50%">
 
-### 🏗️ Infrastructure
+###  Infrastructure
 - ✅ Infrastructure as Code (Terraform)
 - ✅ Cloud Architecture (AWS)
 - ✅ Network Configuration
@@ -69,7 +69,7 @@ Started managing bare metal & cloud servers (OVH, AWS, GCP), got tired of clicki
 </td>
 <td width="50%">
 
-### 🔧 DevOps Practices
+###  DevOps Practices
 - ✅ CI/CD Pipeline Design
 - ✅ GitOps Workflows (ArgoCD)
 - ✅ Container Orchestration
@@ -81,7 +81,7 @@ Started managing bare metal & cloud servers (OVH, AWS, GCP), got tired of clicki
 <tr>
 <td width="50%">
 
-### 📈 Monitoring & Reliability
+###  Monitoring & Reliability
 - ✅ Observability Stacks
 - ✅ Alerting & Incident Response
 - ✅ Performance Optimization
@@ -91,7 +91,7 @@ Started managing bare metal & cloud servers (OVH, AWS, GCP), got tired of clicki
 </td>
 <td width="50%">
 
-### 🔐 Security & Compliance
+###  Security & Compliance
 - ✅ Secret Management
 - ✅ Access Control (IAM)
 - ✅ Security Hardening
@@ -106,11 +106,11 @@ Started managing bare metal & cloud servers (OVH, AWS, GCP), got tired of clicki
 
 ---
 
-## 🎯 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
-### 🎮 RetroGameCloud
+###  RetroGameCloud
 **Full-stack DevOps Gaming Platform**
 
 Complete infrastructure automation featuring user management, classic DOS games, and comprehensive DevOps pipeline
@@ -119,7 +119,7 @@ Complete infrastructure automation featuring user management, classic DOS games,
 
 ---
 
-### 🏠 Homelab Infrastructure
+###  Homelab Infrastructure
 **25-30 Self-Hosted Services**
 
 Personal cloud infrastructure running Plex, media automation, and various containerized applications
@@ -130,7 +130,7 @@ Personal cloud infrastructure running Plex, media automation, and various contai
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -144,7 +144,7 @@ Personal cloud infrastructure running Plex, media automation, and various contai
 
 ---
 
-## 📫 Connect With Me
+##  Connect
 
 <div align="center">
 
@@ -166,7 +166,7 @@ Personal cloud infrastructure running Plex, media automation, and various contai
 
 <div align="center">
 
-### 📈 Profile Views
+###  Profile Views
 
 ![](https://komarev.com/ghpvc/?username=jpalenz77&color=00D9FF&style=for-the-badge)
 
