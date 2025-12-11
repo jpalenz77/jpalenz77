@@ -4,7 +4,7 @@
 
 ### DevOps Engineer | Cloud Architect | Infrastructure Automation
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Infrastructure;Automating+Everything;AWS+%7C+Terraform+%7C+Kubernetes;3%2B+Years+of+Experience" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Infrastructure;Automating+Everything;AWS+%7C+Terraform+%7C+Kubernetes" alt="Typing SVG" />
 
 </div>
 
@@ -12,22 +12,19 @@
 
 ## 🚀 About Me
 
-```yaml
-name: José María Palenzuela Plaza
-role: DevOps Engineer
-location: Spain 🇪🇸
-motto: "If I have to do it twice → I automate it"
+**DevOps Engineer** based in Spain 🇪🇸
 
-currently_working_on:
-  - RetroGameCloud platform
-  - Kubernetes infrastructure optimization
-  - GitOps with ArgoCD
-  
-interests:
-  - Infrastructure as Code
-  - Container orchestration
-  - Retro gaming & homelab projects
-```
+*"If I have to do it twice → I automate it"*
+
+### Currently working on:
+- 🎮 RetroGameCloud platform
+- ⚙️ Kubernetes infrastructure optimization
+- 🔄 GitOps with ArgoCD
+
+### Interests:
+- 🏗️ Infrastructure as Code
+- 🐳 Container orchestration
+- 🕹️ Retro gaming & homelab projects
 
 ---
 
