@@ -12,19 +12,21 @@
 
 ## 🚀 About Me
 
-**DevOps Engineer** based in Spain 🇪🇸
+**Systems Admin turned DevOps Engineer** who refuses to do manual work twice 🚀
 
-*"If I have to do it twice → I automate it"*
+Started managing bare metal & cloud servers (OVH, AWS, GCP), got tired of clicking buttons, so I automated everything. Now I build CI/CD pipelines for fun and deploy Kubernetes clusters in my sleep 😴
 
-### Currently working on:
-- 🎮 RetroGameCloud platform
-- ⚙️ Kubernetes infrastructure optimization
-- 🔄 GitOps with ArgoCD
+### 🛠️ What I Actually Do:
+- ☁️ **Cloud Wrangling**: OVH Cloud, AWS, GCP (because one cloud is never enough)
+- 🤖 **Automation Addict**: If it moves, I'll write Terraform for it. If it doesn't move, I'll still write Terraform for it
+- 🐳 **Container Enthusiast**: Docker, Kubernetes, and yes, even more Kubernetes
+- 🔧 **Infrastructure as Code**: Ansible, Terraform, and occasionally crying over YAML indentation
+- 🚨 **Monitoring Maestro**: Setting up alerts so I can sleep peacefully (or get woken up at 3 AM)
 
-### Interests:
-- 🏗️ Infrastructure as Code
-- 🐳 Container orchestration
-- 🕹️ Retro gaming & homelab projects
+### 🎯 Current Side Quests:
+- 🎮 Building RetroGameCloud (because DevOps + retro gaming = chef's kiss)
+- 🏠 Running 25-30 self-hosted services in my homelab (yes, I have a problem)
+- 📚 Learning new ways to automate the automation
 
 ---
 
@@ -132,7 +134,7 @@ Personal cloud infrastructure running Plex, media automation, and various contai
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jpalenz77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jpalenz77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
 
 <img src="https://streak-stats.demolab.com/?user=jpalenz77&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 
