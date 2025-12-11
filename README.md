@@ -20,7 +20,7 @@ Started managing bare metal & cloud servers (AWS, GCP), got tired of clicking bu
 -  **Cloud Wrangling**: AWS, GCP (because one cloud is never enough)
 -  **Automation Addict**: If it moves, I'll write Terraform for it. If it doesn't move, I'll still write Terraform for it
 -  **Container Enthusiast**: Docker, Kubernetes, and yes, even more Kubernetes
--  **Infrastructure as Code**: Ansible, Terraform, and occasionally crying over YAML indentation
+-  **Infrastructure as Code**: Terraform, and occasionally crying over YAML indentation
 -  **Monitoring Maestro**: Setting up alerts so I can sleep peacefully (or get woken up at 3 AM)
 
 ###  Current Side Quests:
