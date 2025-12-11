@@ -1,10 +1,14 @@
 <div align="center">
 
-# José María Palenzuela Plaza
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=header"/>
+
+# 👨‍💻 José María Palenzuela Plaza
 
 ### DevOps Engineer | Cloud Architect | Infrastructure Automation
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Infrastructure;Automating+Everything;AWS+%7C+Terraform+%7C+Kubernetes" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
@@ -14,13 +18,13 @@
 
 **Systems Admin turned DevOps Engineer** who refuses to do manual work twice.
 
-Started managing bare metal & cloud servers (OVH, AWS, GCP), got tired of clicking buttons, so I automated everything. Now I build CI/CD pipelines for fun and deploy Kubernetes clusters in my sleep.
+Started managing bare metal & cloud servers (AWS, GCP), got tired of clicking buttons, so I automated everything. Now I build CI/CD pipelines for fun and deploy Kubernetes clusters in my sleep.
 
 ###  What I Actually Do:
--  **Cloud Wrangling**: OVH Cloud, AWS, GCP (because one cloud is never enough)
+-  **Cloud Wrangling**: AWS, GCP (because one cloud is never enough)
 -  **Automation Addict**: If it moves, I'll write Terraform for it. If it doesn't move, I'll still write Terraform for it
 -  **Container Enthusiast**: Docker, Kubernetes, and yes, even more Kubernetes
--  **Infrastructure as Code**: Ansible, Terraform, and occasionally crying over YAML indentation
+-  **Infrastructure as Code**: Terraform, and occasionally crying over YAML indentation
 -  **Monitoring Maestro**: Setting up alerts so I can sleep peacefully (or get woken up at 3 AM)
 
 ###  Current Side Quests:
@@ -164,18 +168,20 @@ Personal cloud infrastructure running Plex, media automation, and various contai
 
 <div align="center">
 
-## *"If I have to do it twice → I automate it"*
+## 💭 *"If I have to do it twice → I automate it"*
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
 <div align="center">
 
-###  Profile Views
+### 📊 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=jpalenz77&color=00D9FF&style=for-the-badge)
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=footer"/>
