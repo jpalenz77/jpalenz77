@@ -17,7 +17,7 @@
 Started managing bare metal & cloud servers (AWS, GCP), got tired of clicking buttons, so I automated everything. Now I build CI/CD pipelines for fun and deploy Kubernetes clusters in my sleep.
 
 ###  What I Actually Do:
--  **Cloud Wrangling**: OVH Cloud, AWS, GCP (because one cloud is never enough)
+-  **Cloud Wrangling**: AWS, GCP (because one cloud is never enough)
 -  **Automation Addict**: If it moves, I'll write Terraform for it. If it doesn't move, I'll still write Terraform for it
 -  **Container Enthusiast**: Docker, Kubernetes, and yes, even more Kubernetes
 -  **Infrastructure as Code**: Ansible, Terraform, and occasionally crying over YAML indentation
