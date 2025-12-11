@@ -134,19 +134,11 @@ Personal cloud infrastructure running Plex, media automation, and various contai
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jpalenz77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpalenz77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400)](https://github.com/jpalenz77)
 
-<img src="https://streak-stats.demolab.com/?user=jpalenz77&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jpalenz77&theme=tokyonight&hide_border=true&background=0d1117&cache_seconds=86400)](https://github.com/jpalenz77)
 
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jpalenz77&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpalenz77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400)](https://github.com/jpalenz77)
 
 </div>
 
