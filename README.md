@@ -51,6 +51,8 @@
 
 ## 💼 Core Competencies
 
+<div align="center">
+
 <table>
 <tr>
 <td width="50%">
@@ -98,6 +100,8 @@
 </tr>
 </table>
 
+</div>
+
 ---
 
 ## 🎯 Featured Projects
@@ -110,15 +114,6 @@
 Complete infrastructure automation featuring user management, classic DOS games, and comprehensive DevOps pipeline
 
 `Terraform` `Kubernetes` `ArgoCD` `FastAPI` `Docker` `GitHub Actions`
-
----
-
-### 📦 GameHub
-**Retro Gaming Web Platform**
-
-WebAssembly-powered gaming platform with user authentication and scoring systems
-
-`js-dos` `WebAssembly` `Docker` `CI/CD` `Monitoring`
 
 ---
 
@@ -169,11 +164,7 @@ Personal cloud infrastructure running Plex, media automation, and various contai
 
 <div align="center">
 
-### 💡 Philosophy
-
-*"If I have to do it twice → I automate it"*
-
-**Thanks for dropping by! Let's build something awesome together.**
+## *"If I have to do it twice → I automate it"*
 
 </div>
 
