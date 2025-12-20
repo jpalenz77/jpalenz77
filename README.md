@@ -12,7 +12,7 @@
 
 ## About Me
 
-**SYSAdmin turned DevOps Engineer** who refuses to do manual work twice.
+**DevOps Engineer** who refuses to do manual work twice.
 
 Started managing bare metal & cloud servers (AWS, GCP), got tired of clicking buttons, so I automated everything. Now I build CI/CD pipelines for fun and deploy Kubernetes clusters in my sleep.
 
